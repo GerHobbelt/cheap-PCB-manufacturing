@@ -95,6 +95,7 @@
     + any of these PCB colors: black, green, red, yellow, blue, white. (Purple and Matte Black boards are more expensive, though.)
     + Has a fixed silkscreen color for each PCB color, so that's settled, no questions asked.
   - Castellated Holes are listed as an option but *do hike the price* from USD 4.90 to USD 19.90
+  - Technology info: see bottom of the online calculator page, the service Wiki/FAQ https://www.elecrow.com/wiki/index.php?title=Elecrow_Services, which includes a page on exporting Gerbers from Eagle and a few other tools plus design rule files for 2L and 4L PCBs ready for download, both in the on-line quotation page and that Wiki, e.g. at https://www.elecrow.com/wiki/index.php?title=How_to_export_gerber_files_from_Eagle_file
 
   - Estimated total cost for reference PCB 100x100x5 = USD 13 (4.90+8.04) and USD 17 for 10pcs (4.90+11.46). 
 
