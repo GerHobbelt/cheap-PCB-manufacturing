@@ -1,5 +1,8 @@
 # PCB Manufacturers - prices with shipping to the Netherlands/Europe per Q1 2018
 
+*Note: These pages are also viewable at https://gerhobbelt.github.io/cheap-PCB-manufacturing/*
+
+
 * JLCPCB
 
   - on-line quote calculator: https://jlcpcb.com/quote
