@@ -50,9 +50,11 @@
   - indicative price: 2L (2 layers), 100x100mm, 10pcs, HASL (lead), green PCB, white silkscreen, drill holes 0.3mm↑, 6mil↑ traces, 1.6mm thickness: USD 5, weight 350g, shipping with China Port: USD 11
   - Tented vias: 
 
-    *"What is the main reference to process vias by PCBWay?
-    1. If you submit gerber file, then we process via exactly according to your file. The three options you chose will be ignored then.
-    2.For .PCB and .PCBDOC files, it is hard to confirm the via attribute, so we will process via according to the options you selected."*
+    > + What is the main reference to process vias by PCBWay?
+    > 
+    >   1. If you submit gerber file, then we process via exactly according to your file. The three options you chose will be ignored then.
+    >   
+    >   2. For .PCB and .PCBDOC files, it is hard to confirm the via attribute, so we will process via according to the options you selected.
 
   - production 2-3 working days
   - minumum order amount is 5pcs, but it doesn't change the price for the PCBs when you order 10pcs; it's only the *shipping costs* which rise with the larger order.
