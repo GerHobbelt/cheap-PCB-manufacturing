@@ -1,5 +1,7 @@
 # PCB Manufacturers - prices with shipping to the Netherlands/Europe per Q1 2018
 
+![GitHub tag](https://img.shields.io/github/tag/GerHobbelt/cheap-PCB-manufacturing.svg)
+
 *Note: These pages are also viewable at https://gerhobbelt.github.io/cheap-PCB-manufacturing/*
 
 
