@@ -24,7 +24,7 @@
   - indicative price: 2L (2 layers), 100x100mm, 10pcs, HASL, red PCB, 1.2mm thickness: USD 17 (11.95+5.00) **EX shipping**
   - seems all thicknesses up to 1.6mm are the same price: this is *not so* for many other PCB manufacturers
   - when set to 'custom size', 100x100mm as above lists as USD 20
-  - any size beyond 100x100mm strongly jumps up the price; we observe this with many other manufacturers as well. The days of 'euroformat' (160x100) as definitely in the past now. ;-)
+  - any size beyond 100x100mm strongly jumps up the price; we observe this with many other manufacturers as well. The days of 'euroformat' (160x100) are definitely in the past now. ;-)
   - shipping using HongKong Post for a 400 grams is listed at USD 8, delivery in 1-8 weeks
   - shipping using PostNL for a 400 grams is listed at USD 9, delivery in 1-8 weeks
   
